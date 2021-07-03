@@ -1,4 +1,4 @@
 
-## Projeto do Curso de Microserviços JAVA + Gateway + RabbitMQ + Redis
+## Projeto do curso de Microserviços JAVA + Gateway + RabbitMQ + Redis
 
 <img src="uml.png">
